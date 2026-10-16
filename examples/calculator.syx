@@ -1,0 +1,9 @@
+# Basic mathematics
+
+set x = 20
+set y = 10
+
+say x + y
+say x - y
+say x * y
+say x / y
