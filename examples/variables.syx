@@ -1,0 +1,7 @@
+# SyttaxScript variables
+
+set name = "Simon"
+set language = "SyttaxScript"
+
+say name
+say language
